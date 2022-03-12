@@ -1,0 +1,247 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+}
+
+
+
+ p.g1{
+    color:#333;
+    text-indent: 2em;
+    margin-bottom: 15px;
+ }            
+ p.Q2{
+     color: brown;
+ }
+ h3.B1{
+     border-bottom: 1PX solid black;
+ }
+  li{ 
+   
+ }
+ body {
+    color: #333;
+    background-color: #f5f5f5!important;
+  margin: 0px;
+    line-height: 1.5;
+     /* padding-left:200px; 
+     padding-right: 200px;*/
+ }
+ body{
+    max-width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+   padding: 20px;
+     /* 边框模式 */
+     /* border-style: groove;   */
+   
+ }
+ table.k2{
+     border-color: black;
+     border-width: 2px;
+     border-style: solid;
+     background-color: white;
+     /* 内边距 */
+     /* padding: 60px; */
+     /* 外边距 */
+     margin: 60px;
+     /* 添加背景 */
+     /* background-image: url(https://bkimg.cdn.bcebos.com/pic/d439b6003af33a8701865a63c05c10385243b5e4?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto); */
+     background-repeat: no-repeat;
+     /* border-radius: 25px; */
+
+     
+     margin-right: 00px;
+     margin-left: 100px;
+    }
+    .p1{
+        display: block;
+        margin: 0 auto;
+       margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+        background-position: top left;
+    }
+  
+    li.w1{
+        font-size: 10px;
+        margin-left: 20px;
+    }
+    div.king1{
+        
+        width: 790px;
+       padding-top: 29px;
+    padding-right: 29px;
+    padding-bottom: 0px;
+    padding-left: 29px;
+        background-color: #fff;
+        float: right;
+       
+    }
+    table.B2{
+   border-bottom:1px dashed #999;     
+   border-top: 1px dashed #999;
+   text-align: center;
+   margin-bottom: 35px;
+    }
+    .B2 td{
+        border-top:1px dashed #999;
+        border-bottom:1px dashed #999;}
+    .B2 th{
+    border-top:1px dashed #999;
+    border-bottom:1px dashed #999;}
+      
+ .txt1{
+     width: 800px;
+ }
+ #king2{position: relative;
+    float: right;
+
+    width: 270px;
+    background-color: #fff;
+    margin: 0px;
+ }
+ #king3{
+     width: 248.993;
+     height:45 ;
+     padding-left: 14px;
+     padding-right: 5px;
+     padding-top: 10px;
+     padding-bottom: 8px;
+     background-color: #fff;
+     border-right:2px solid rgb(163, 161, 161);    
+     border-bottom:2.5px solid rgb(143, 141, 141) ;
+     border-left:1px solid rgb(156, 148, 148);
+     padding-top: 6px;
+ }
+ #king{
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    border:1px solid #e5e5e5;
+    width: 1145px;
+    height: 8000px;
+    background-color: #fff;
+
+ }
+ .p1{
+     float:right;
+     margin-left:9px
+ }
+ .m1{
+     width: 570px;
+     text-indent: 2em;
+ 
+ }
+ .m2{
+     width: 790;
+    
+ }
+ .m4{
+     margin-top: 14px;
+     text-indent: 2em;
+ }
+ .p3{
+    float:right;
+    margin-left:9px}
+.m5,.m6{
+    text-indent: 2em;
+}
+
+.m7,.m8,.m9,.m0{
+    text-indent: 2em;
+    margin-bottom: 15px;
+    
+}
+.h1{
+    width: 90px;
+    padding-left: 12px;
+    padding-right: 5px;
+    text-align : left;
+    color: #999;
+    font-size: 12px;
+    
+    
+}
+ .td1{
+     width: 285px;
+     padding: 0px;
+     color: #333;
+     font-size: 12px;    
+ }
+ .E1{
+     width: 789px;
+     height: 224px;
+     border-top: solid 1px #999;
+     border-bottom: solid 1px #999;
+ }
+.E2{
+    width: 62PX;
+    padding-top: 22px;
+    padding-left: 20px;
+    float: left;
+    height: 204px;
+    border-right: #999 solid 1px;
+    background-color: rgb(146, 140, 140);
+}
+.E3{
+    width: 706px;
+    height: 189PX;
+    padding-top: 15PX;
+    padding-bottom: 20px;
+    border-left: 1PX;
+    float: right;
+}
+ol.E4{
+    list-style-type: none;
+    width: 175.500px;
+  padding: 0px;
+    list-style: decimal;
+    float:left;
+    height: 168px;
+    margin: 0px;
+    border-right: #999 solid 1px; 
+}
+.E5{
+    float: left;
+    height: 28px;
+    width: 28px;
+   padding-left: 20px;
+    float: left;
+    padding-right: 8px;
+}
+.E6{
+    height: auto;
+    width: auto;
+    padding-right: 55.5px;
+   
+}
+.E7{
+    font-size: 12PX;   
+}
+.E8{
+    float: left;
+}
+.E10{
+    width: 5px;
+    height: 16px;
+    padding-left: 41px;
+    padding-right: 5px;
+    float: left;
+}
+.E9{
+    font-size: 12PX;
+  
+}
+.E12{
+    float: left;
+   padding-right: 10px;
+}
+.E13{
+    padding-right: 0px;
+}
+.w4{
+    text-indent: 2em;
+}
